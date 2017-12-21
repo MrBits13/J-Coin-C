@@ -1,1 +1,2 @@
-# J-Coin-C
+# J-Coin-Cash
+Here We Go
